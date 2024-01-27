@@ -122,7 +122,6 @@ C:\Users\neomanue\proyectos\proyecto_test> git push --force
 
 ``` 
 
-``` 
 
 Merge es un comando que permite unir dos ramas de trabajo.
 
@@ -183,8 +182,8 @@ git pull es un comando que permite descargar los ficheros del repositorio remoto
 #Descargar los ficheros del repositorio remoto por ejemplo main.
 C:\Users\neomanue\proyectos\proyecto_test> git pull origin main
 C:\Users\neomanue\proyectos\proyecto_test> git pull 
-
 ```
+
 git clone es un comando que permite descargar los ficheros del repositorio remoto.
 
 ```
